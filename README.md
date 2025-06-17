@@ -16,14 +16,25 @@
 <h3 align="left">Skills:</h3>
 Fundementals | 
 -------------|
+
 C++          |
-Problem Solving        | 
-OOP      | 
+
+Problem Solving| 
+
+OOP|
+
 Data Structures | 
+
 Algorithms |
+
 Design Pattern| 
+
 Unit Testing | 
+
 Git | 
+
 GitHub |
+
 My SQL | 
+
 Agile Methodologies | 
