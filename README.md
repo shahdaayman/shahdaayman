@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahd Ayman</h1>
 <h3 align="center">🎓I'm a third-year Computer Science student at the British University in Egypt, expected to graduate in 2027.</h3>
 
-- 🌱 I’m currently learning **UI/UX Design - Full-Stack Web Development (React framework,PHP,My SQL,Laravel)**
+- 🌱 I’m currently learning **Front-End (React framework)**
 
 - 💬 Ask me about **C++ Programming/Problem Solving & Competitive Programming/OOP/Data structures & Algorithms**
 
