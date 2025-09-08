@@ -3,5 +3,3 @@
 
 - 📫 How to reach me **shahdaaymann@gmail.com**
 
-<p align="left">
-</p>
